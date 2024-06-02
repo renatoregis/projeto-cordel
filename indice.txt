@@ -1,0 +1,8 @@
+21
+COPIAR TEXTO
+DEFINIR PARAGRAFOS, CABEÇALHO, TÍTULOS, RODAPÉS...
+22
+definiu formatação de paragrafos, sections, hover, class, algumas cores e alguns ajustes.
+23 fontes e suas aplicações
+Definiu fontes, tamanho, ajustes nas caixas de acordo com o tamanho da letra...
+24 imgens
